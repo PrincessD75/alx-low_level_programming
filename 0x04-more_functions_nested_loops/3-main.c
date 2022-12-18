@@ -8,9 +8,7 @@
 
 int main(void)
 {
-	_putchar .c;
 
 	print_numbers();
-	_putchar(c);
 	return (0);
 }
