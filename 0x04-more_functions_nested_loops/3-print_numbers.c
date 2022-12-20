@@ -6,7 +6,7 @@
  * Return: void
  */
 
-void print_numbers(void);
+void print_numbers(void)
 {
 	int start = 0, end = 9
 
